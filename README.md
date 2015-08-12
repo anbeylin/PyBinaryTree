@@ -9,3 +9,6 @@ I plan to implement several different types of Binary trees:
 2. Red-Black tree
 3. AVL tree
 4. 2-3 tree
+
+
+http://interactivepython.org/runestone/static/pythonds/index.html
